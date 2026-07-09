@@ -89,8 +89,6 @@ flutter pub get
 flutter run
 
 4️⃣ Environment Variables
-AWS_ACCESS_KEY=
-AWS_SECRET_KEY=
 S3_BUCKET_NAME=
 DB_URL=
 DB_USERNAME=
